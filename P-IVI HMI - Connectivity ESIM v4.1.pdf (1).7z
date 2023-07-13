@@ -1,0 +1,181 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns:o="urn:schemas-microsoft-com:office:office" lang="en-us" dir="ltr">
+<head><meta name="GENERATOR" content="Microsoft SharePoint" /><meta name="progid" content="SharePoint.WebPartPage.Document" /><meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><meta http-equiv="Expires" content="0" /><meta name="ROBOTS" content="NOHTMLINDEX" /><title>
+	
+	Error: Access Denied
+
+</title><link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/Themable/layouts.css?rev=ntZm7Swfe3gVlwGtlb8OdQ%3D%3D"/>
+<link rel="stylesheet" type="text/css" href="/_layouts/1033/styles/Themable/corev4.css?rev=p63%2BuzTeSJc22nVGNZ5zwg%3D%3D"/>
+<script type="text/javascript">
+// <![CDATA[
+document.write('<script type="text/javascript" src="/_layouts/1033/init.js?rev=wgiyW1GQqDQZTITaawvYoA%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/ScriptResource.axd?d=ilJx6hbRxLr1ex5jwp7O6scUKMHbLzutvQYfJ9st2wqU2abxGlOJnbAg8iUVzKXFZiZdWQMaiLcibhFF4L7TkYYk8bTMFO139lB5Bgoq84f_i2c6P50VTeEhL0JbS6PqvEBC-YPx2QbNO2lLCjyhDYuEpL41&amp;t=ffffffffb868b5f4"></' + 'script>');
+document.write('<script type="text/javascript" src="/_layouts/blank.js?rev=QGOYAJlouiWgFRlhHVlMKA%3D%3D"></' + 'script>');
+document.write('<script type="text/javascript" src="/ScriptResource.axd?d=wD86pK9hyns9EzgDhgGeQUEOLZeoX80AKl2VUNhn2_IMEkTrCP9-adfEpUt2DnIYodHGzFwmqRHFmDm2p1gO51yZWOIiV4CDV2_GmWfjjttNoAzMdYG7_E7mgylGhBz5v6WtGBcilvauQAX7QCppdVx0nXhL6L7I2Q7CDOumyTyTNsem0&amp;t=ffffffffb868b5f4"></' + 'script>');
+// ]]>
+</script>
+
+	<meta name="Robots" content="NOINDEX " />
+	<meta name="SharePointError" content="1" />
+<link rel="shortcut icon" href="/_layouts/images/favicon.ico" type="image/vnd.microsoft.icon" /></head>
+<body onload="javascript:if (typeof(_spBodyOnLoadWrapper) != 'undefined') _spBodyOnLoadWrapper();">
+	<form name="aspnetForm" method="post" action="AccessDenied.aspx?Source=https%3a%2f%2fcomm.sp.jlrint.com%2fsites%2fngi_hmi%2f_layouts%2fdownload.aspx%3fSourceUrl%3d%252Fsites%252Fngi%255Fhmi%252FShared%2520Documents%252F1%252E%2520Wireframes%252FPIVI%2520IP33%252FP%252DIVI%2520HMI%2520%252D%2520Connectivity%2520ESIM%2520v4%252E1%252Epdf%252E7z%26FldUrl%3d%26Source%3dhttps%253A%252F%252Fcomm%252Esp%252Ejlrint%252Ecom%252Fsites%252Fngi%255Fhmi%252FSitePages%252FHome%252Easpx%253FRootFolder%253D%25252Fsites%25252Fngi%25255Fhmi%25252FShared%252520Documents%25252F1%25252E%252520Wireframes%25252FPIVI%252520IP33%2526FolderCTID%253D0x012000AF341A4EE2A99F4DB604EFD09EA29031%2526View%253D%257B73269811%252DD4EE%252D49E2%252DA876%252D56E5D8737FDD%257D" id="aspnetForm" onsubmit="if (typeof(_spFormOnSubmitWrapper) != 'undefined') {return _spFormOnSubmitWrapper();} else {return true;}">
+<div>
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="" />
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="" />
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKMTIwMDcxMjc1Nw9kFgJmD2QWAgIBD2QWAgIDD2QWBAILD2QWBgIBD2QWAgIFDw8WAh4EVGV4dAUOSkxSVVNFUlxVREFSSkFkZAIDDw8WAh4LTmF2aWdhdGVVcmwFeGphdmFzY3JpcHQ6TG9naW5Bc0Fub3RoZXIoJ1x1MDAyZnNpdGVzXHUwMDJmbmdpX2htaVx1MDAyZl9sYXlvdXRzXHUwMDJmY2xvc2VDb25uZWN0aW9uLmFzcHg/bG9naW5hc2Fub3RoZXJ1c2VyPXRydWUnLCAxKWRkAgUPDxYCHwEFFHJlcWFjYy5hc3B4P3R5cGU9d2ViZGQCDQ9kFgICAQ8PFgIeCEltYWdlVXJsBSEvX2xheW91dHMvMTAzMy9pbWFnZXMvY2FscHJldi5wbmdkZGQgEH7QCRrCo+fCDqKSbaMXHgZCcw==" />
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['aspnetForm'];
+if (!theForm) {
+    theForm = document.aspnetForm;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=3Z5ToJxxByoU5KvwMPDOMzMJngmkUVUWHuQn4c4nUQEisX3Q1NCnYPjUsSfR8xXqrs0cMPBXJD405IRTBCZcNVGqVsE1&amp;t=634604424479085897" type="text/javascript"></script>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var g_presenceEnabled = true;var _fV4UI=true;var _spPageContextInfo = {webServerRelativeUrl: "\u002fsites\u002fngi_hmi", webLanguage: 1033, currentLanguage: 1033, webUIVersion:4, alertsEnabled:true, siteServerRelativeUrl: "\u002fsites\u002fngi_hmi", allowSilverlightPrompt:'True'};var MSOWebPartPageFormName = 'aspnetForm';//]]>
+</script>
+
+<script src="/_layouts/blank.js?rev=QGOYAJlouiWgFRlhHVlMKA%3D%3D" type="text/javascript"></script>
+<script type="text/javascript">
+//<![CDATA[
+if (typeof(DeferWebFormInitCallback) == 'function') DeferWebFormInitCallback();//]]>
+</script>
+
+	<script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager', document.getElementById('aspnetForm'));
+Sys.WebForms.PageRequestManager.getInstance()._updateControls([], [], [], 90);
+//]]>
+</script>
+
+	<div id="s4-simple-header" class="s4-pr">
+		<div class="s4-lpi">
+			
+				<span style="height:17px;width:17px;position:relative;display:inline-block;overflow:hidden;" class="s4-clust"><a href="#" id="ctl00_PlaceHolderHelpButton_TopHelpLink" style="height:17px;width:17px;display:inline-block;" onclick="TopHelpButtonClick('NavBarHelpHome');return false" accesskey="6" title="Help (new window)"><img src="/_layouts/images/fgimg.png" style="left:-0px !important;top:-309px !important;position:absolute;" align="absmiddle" border="0" alt="Help (new window)" /></a></span>
+		
+		</div>
+	</div>
+	<div id="s4-simple-card">
+		<div id="s4-simple-card-top">
+			
+				<a href="/sites/ngi_hmi" id="ctl00_PlaceHolderSimpleCloseX_idSimpleGoBackToHomeCloseX" onmouseover="SwapImage('ctl00_PlaceHolderSimpleCloseX_idSimpleGoBackToHomeCloseX-image', '/_layouts/images/closeXon.png');" onmouseout="SwapImage('ctl00_PlaceHolderSimpleCloseX_idSimpleGoBackToHomeCloseX-image', '/_layouts/images/closeX.png');"><img src="/_layouts/images/closeX.png" id="ctl00_PlaceHolderSimpleCloseX_idSimpleGoBackToHomeCloseX-image" alt="Go back to site" /></a>
+			
+		</div>
+		<div id="s4-simple-card-content">
+			
+				<div class="s4-simple-iconcont">
+					<img src="/_layouts/images/errorIcon.png" alt="Error" />
+				</div>
+			
+			<div id="s4-simple-content">
+				<h1>
+					
+	Error: Access Denied
+
+				</h1>
+				<div id="s4-simple-error-content">
+					
+ <table border="0" cellpadding="0">
+ <div id="ctl00_PlaceHolderMain_PanelUserName">
+	
+ <tr>
+	<td class="ms-sectionheader">
+		<img src="/_layouts/images/ListSet.gif" alt="" />
+		Current User
+	</td>
+ </tr>
+ <tr>
+	<td valign="top" class="ms-descriptiontext">You are currently signed in as:
+		&#160;<b><span id="ctl00_PlaceHolderMain_LabelUserName">JLRUSER\UDARJA</span></b>
+	</td>
+ </tr>
+ 
+</div>
+ <tr>
+	<td>&#160;</td>
+ </tr>
+ <tr>
+	<td>
+		<a id="ctl00_PlaceHolderMain_HLinkLoginAsAnother" class="ms-descriptiontext" href="javascript:LoginAsAnother('\u002fsites\u002fngi_hmi\u002f_layouts\u002fcloseConnection.aspx?loginasanotheruser=true', 1)">Sign in as a different user</a>
+		<br/>
+		<a id="ctl00_PlaceHolderMain_HLinkRequestAccess" class="ms-descriptiontext" href="reqacc.aspx?type=web">Request access</a>
+	</td>
+ </tr>
+ </table>
+
+				</div>
+				
+					<div id="s4-simple-gobackcont">
+						<img src="/_layouts/1033/images/calprev.png" alt="Go back to site" style="border-width:0px;" />
+						<a href="/sites/ngi_hmi" id="ctl00_PlaceHolderGoBackLink_idSimpleGoBackToHome">Go back to site</a>
+					</div>
+				
+			</div>
+		</div>
+	</div>
+	<div class="s4-die">
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	<img id="onetidtpweb1" src="/_layouts/images/error.gif" alt="" />
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	</div>
+
+
+<script type="text/javascript">
+//<![CDATA[
+var _fV4UI = true;//]]>
+</script>
+<script type="text/javascript">
+// <![CDATA[
+// ]]>
+</script>
+<script type="text/javascript">RegisterSod("sp.core.js", "\u002f_layouts\u002fsp.core.js?rev=7ByNlH\u00252BvcgRJg\u00252BRCctdC0w\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.res.resx", "\u002f_layouts\u002fScriptResx.ashx?culture=en\u00252Dus\u0026name=SP\u00252ERes\u0026rev=b6\u00252FcRx1a6orhAQ\u00252FcF\u00252B0ytQ\u00253D\u00253D");</script>
+<script type="text/javascript">RegisterSod("sp.ui.dialog.js", "\u002f_layouts\u002fsp.ui.dialog.js?rev=Tpcmo1\u00252FSu6R0yewHowDl5g\u00253D\u00253D");RegisterSodDep("sp.ui.dialog.js", "sp.core.js");RegisterSodDep("sp.ui.dialog.js", "sp.res.resx");</script>
+<script type="text/javascript">RegisterSod("core.js", "\u002f_layouts\u002f1033\u002fcore.js?rev=Emb5hNX1RZMNXk9oS82yvA\u00253D\u00253D");</script>
+
+<script type="text/javascript">
+//<![CDATA[
+Sys.Application.initialize();
+//]]>
+</script>
+</form>
+</body>
+</html>
